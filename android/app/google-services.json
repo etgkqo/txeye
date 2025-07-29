@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "209192778130",
+    "project_id": "txeye-4ef13",
+    "storage_bucket": "txeye-4ef13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209192778130:android:bde7ce41a447db8b2a694b",
+        "android_client_info": {
+          "package_name": "com.etgkqo.txeye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAseorMQ_Xyk--8rqvjNl4Dp3FQxVv_-6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
